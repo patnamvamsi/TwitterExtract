@@ -14,10 +14,10 @@ public class TwitterConnection  {
 		ConfigurationBuilder cf = new ConfigurationBuilder();
 
 		cf.setDebugEnabled(true)
-		.setOAuthConsumerKey("cdOyeIK55Y8FglRC4aGK3iBqK")
-		.setOAuthConsumerSecret("4W3Ca2q65T5EtIqFLA2dlSNNrFDNeAU1hoOttlcTpQx5Wo4P8a")
-		.setOAuthAccessToken("113387734-yyaHwxQzB1wotWZvRhtY7WeflBZwG2Xx0lPqAIPt")
-		.setOAuthAccessTokenSecret("VulUb2tSe4RnOa97leJDdZx7QZQHDnLXwKy4bkLaTwjyD")
+		.setOAuthConsumerKey("Your consumer key")
+		.setOAuthConsumerSecret("Your consumer secret key")
+		.setOAuthAccessToken("Your Access token key")
+		.setOAuthAccessTokenSecret("Your Access token secret key")
 		.setJSONStoreEnabled(true);
 		
 		
