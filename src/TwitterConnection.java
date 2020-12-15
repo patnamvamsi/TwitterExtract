@@ -23,7 +23,7 @@ public class TwitterConnection  {
 		
 		
 		
-		
+		//rem3
 		
 		TwitterFactory tf = new TwitterFactory(cf.build());
 		Twitter twitter = tf.getInstance();
